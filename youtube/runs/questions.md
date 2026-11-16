@@ -16,3 +16,7 @@ To run the cycle, please create `youtube/channel-profile.md` by copying
 
 Optional but useful: export YouTube Studio analytics as CSVs into `youtube/analytics/`,
 and add notes on outlier videos in `youtube/outliers/`.
+
+---
+
+Run on 2026-11-16: still no channel profile, so no ideas were generated. The profile is still needed.
